@@ -20,7 +20,7 @@ public class stopBat {
 
 		String f = "outputlog.txt";
 	
-
+		//new stop comment
 		Calendar cal =Calendar.getInstance(); //currenttime increament to 45 second
 		cal.add(Calendar.SECOND, 45);
 		long stopnow = cal.getTimeInMillis();
