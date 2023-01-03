@@ -29,6 +29,7 @@ git branch -d <branch name> #delete the branch
 
 git merge <branch> # need to switch from the active worked branch to merge - for ex. If you working in the develop branch and work done. Need to switch to master branch and then try to merge to master.
 
+git clone <giturl>
 
 
 
