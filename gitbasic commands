@@ -1,0 +1,37 @@
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+
+git config --global user.name "Balaji"
+
+git config --global user.email "sendtobalaji08@gmail.com"
+
+git init # to initialize the project
+
+git add * (or) name  # to in the staging level
+
+git commit -m "commit message"
+
+git remote add origin <giturl>
+
+git push origin master 
+
+git pull origin master
+
+git checkout -b <new branch name>
+
+git checkout <branchname> to switch from one branch to another. 
+
+git branch # to know which branch the current user are in.
+
+git status # to know the status. 
+
+git branch -d <branch name> #delete the branch
+
+git merge <branch> # need to switch from the active worked branch to merge - for ex. If you working in the develop branch and work done. Need to switch to master branch and then try to merge to master.
+
+
+
+
+
+
+
